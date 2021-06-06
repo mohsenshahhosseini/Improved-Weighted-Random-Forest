@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Tue April 16 2019
-
 @author: Mohsen
+Improved Weighted Random forest - Bank Marketing data set
 """
 
 import numpy as np
